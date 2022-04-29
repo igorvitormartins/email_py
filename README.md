@@ -10,7 +10,7 @@ pip install secure-smtplib
 
 ```
 
-##### É necessário editar o arquivo config.ini e inserir os dados do e-mail que deseja que envie mensagens
+#### É necessário editar o arquivo config.ini e inserir os dados do e-mail que deseja que envie mensagens
 Notar que é necessário realizar mudança na configuração de segurança permitindo o acesso por programa terceiros,
 no gmail o processo ocorre da seguinte forma:
 
